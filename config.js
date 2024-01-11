@@ -21,11 +21,11 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94704274987", "+94704274987"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94704274987", "+94704274987"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.Owner = ["+94789200603", "+94789200603"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+94789200603", "+94789200603"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
 global.ownertag = ["+94704274987"];
-global.OwnerName = "SACHITH";
-global.BotName = "SACHITH";
+global.OwnerName = "HAISYA";
+global.BotName = "HASIYA BOT";
 global.packname = "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
 global.author = "SACHITH";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
@@ -80,17 +80,17 @@ global.ntilink = []
 //
 global.mess = {
   jobdone: 'Here you go...',
-  useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
-  botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-  botowner: 'Only my *Owner* can use this command, Baka!',
-  grouponly: 'This command is only made for *Groups*, Baka!',
+  useradmin: 'සමාවන්න මෙම විදානය බාවිතා කල හැක්කෙ සමූහයේ adminට පමණි👤',
+  botadmin: '𝗧𝗛𝗜𝗦 𝗖𝗠𝗗 𝗨𝗦𝗘 𝗠𝗕 𝗕𝗢𝗧 𝗔𝗗𝗠𝗜𝗡👏',
+  botowner: 'මෙම විදානය බාවිතා කල හැක්කෙ owner ට පමණි✅🔰',
+  grouponly: 'මෙම විදානය සමූහ සදහා පමණි🫂',
   privateonly: 'This command is only made for *Private Chat*, Baka!',
   botonly: 'Only the *Bot itself* can use this command!',
-  waiting: 'Just Wait...',
-  nolink: 'Please provide me *link*, Baka!',
+  waiting: '*කරුණාකර රැදී සිටින්න....😇*',
+  nolink: 'කරුණාකර මට ලින්ක් එකක් ලබා දෙන්න✅',
   error: 'An error occurd!',
-  banned: 'You are *Banned* fron using commands!',
-  bangc: 'This Group is *Banned* from using Commands!',
+  banned: 'බාවිතා කල නොහැකි වචනයකි⭕⚠️',
+  bangc: 'මෙම සමූහයේ බාවිතා කල නොහැකි පදයකි⚠️',
   nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
 
 }
